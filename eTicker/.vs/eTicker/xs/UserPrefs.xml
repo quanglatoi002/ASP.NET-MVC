@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{F0FED524-8094-4FE3-BBDB-6E322B033BD4}|https">
-  <MonoDevelop.Ide.ItemProperties.eTicker FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="eTicker/Program.cs">
+    <Files>
+      <File FileName="eTicker/Views/Home/Index.cshtml" Line="10" Column="1" />
+      <File FileName="eTicker/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="eTicker/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="eTicker">
+            <Node name="eTicker">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.eTicker PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
